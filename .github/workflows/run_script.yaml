@@ -19,6 +19,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Set Execute Permission
+        run: chmod +x filter_ical
+        
       - name: Run Filter Script
         run: |
           ./filter_ical --args > filtered_calendar.ics
