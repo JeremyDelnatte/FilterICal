@@ -16,7 +16,7 @@ jobs:
       - name: Download Rust Binary from GitHub Release
         uses: actions/download-artifact@v3
         with:
-          name: filter_ical
+          name: Release main
           path: ./bin
 
       - name: Run Filter Script
