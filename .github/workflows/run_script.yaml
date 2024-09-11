@@ -15,13 +15,13 @@ jobs:
 
       - name: Download Release Binary
         run: |
-          curl -L -o ./bin/filter_ical https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/filter_ical
+          curl -L -o filter_ical https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/filter_ical
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run Filter Script
         run: |
-          ./bin/filter_ical --args > filtered_calendar.ics
+          filter_ical --args > filtered_calendar.ics
 
       - name: Upload Filtered iCal File
         uses: actions/upload-artifact@v3
