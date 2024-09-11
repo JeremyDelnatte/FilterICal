@@ -25,4 +25,4 @@ jobs:
           git config --local user.email "actions@github.com"
           git add filtered_calendar.ics
           git commit -m "Update filtered calendar"
-          git push origin calendar
+          git push
