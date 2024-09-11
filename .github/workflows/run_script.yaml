@@ -1,0 +1,30 @@
+name: Deploy Filtered iCal
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download Rust Binary from GitHub Release
+        uses: actions/download-artifact@v3
+        with:
+          name: filter_ical
+          path: ./bin
+
+      - name: Run Filter Script
+        run: |
+          ./bin/your_filter_binary --args > filtered_calendar.ics
+
+      - name: Upload Filtered iCal File
+        uses: actions/upload-artifact@v3
+        with:
+          name: filtered-calendar
+          path: filtered_calendar.ics
