@@ -18,17 +18,6 @@ jobs:
   
       - name: Run Rust script to filter and update calendar
         run: cargo run --release
-        
-      - name: Stash uncommitted changes
-        run: git stash
-        
-      - name: Checkout calendar branch
-        uses: actions/checkout@v3
-        with:
-          ref: calendar 
-
-      - name: Apply stashed changes
-        run: git stash pop || true
   
       - name: Commit changes
         run: |
