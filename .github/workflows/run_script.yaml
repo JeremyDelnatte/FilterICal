@@ -21,7 +21,7 @@ jobs:
 
       - name: Run Filter Script
         run: |
-          filter_ical --args > filtered_calendar.ics
+          ./filter_ical --args > filtered_calendar.ics
 
       - name: Upload Filtered iCal File
         uses: actions/upload-artifact@v3
