@@ -1,4 +1,4 @@
-name: Deploy Filtered iCal
+name: Filter iCal
 
 on:
   schedule:
@@ -13,26 +13,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Download Release Binary
+      - name: Build the project
+        run: cargo build --release
+  
+      - name: Run Rust script to filter and update calendar
+        run: cargo run --release
+  
+      - name: Commit changes
         run: |
-          curl -L -o filter_ical https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/filter_ical
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Set Execute Permission
-        run: chmod +x filter_ical
-
-      - name: Verify File
-        run: |
-          file filter_ical
-          ls -l filter_ical
-        
-      - name: Run Filter Script
-        run: |
-          ./filter_ical --args > filtered_calendar.ics
-
-      - name: Upload Filtered iCal File
-        uses: actions/upload-artifact@v3
-        with:
-          name: filtered-calendar
-          path: filtered_calendar.ics
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add filtered_calendar.ics
+          git commit -m "Update filtered calendar"
+          git push
