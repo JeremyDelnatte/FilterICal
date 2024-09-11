@@ -18,12 +18,16 @@ jobs:
   
       - name: Run Rust script to filter and update calendar
         run: cargo run --release
+
+      - name: Checkout calendar branch
+        uses: actions/checkout@v3
+        with:
+          ref: calendar 
   
       - name: Commit changes
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git checkout -b calendar || git checkout calendar
           git add filtered_calendar.ics
           git commit -m "Update filtered calendar"
           git push origin calendar
