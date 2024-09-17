@@ -14,7 +14,7 @@ BEGIN:VEVENT
 DESCRIPTION;LANGUAGE=fr:Aa : Evénement - DCOM\NMémo : Fête de la rentré
  e\N
 DTEND:20240916T200000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20240916T140000Z
 LAST-MODIFIED:20240916T081041Z
 SUMMARY;LANGUAGE=fr:Evénement - DCOM - Fête de la rentrée
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 DESCRIPTION;LANGUAGE=fr:Aa : Evénement - DCOM\NMémo : Rentrée académiqu
  e\N
 DTEND:20240919T180000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20240919T143000Z
 LAST-MODIFIED:20240516T130032Z
 SUMMARY;LANGUAGE=fr:Evénement - DCOM - Rentrée académique
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION;LANGUAGE=fr:Aa : Evénement - DCOM\NMémo : UMONS Career Day\N
 DTEND:20250318T163000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250318T071500Z
 LAST-MODIFIED:20240521T070415Z
 SUMMARY;LANGUAGE=fr:Evénement - DCOM - UMONS Career Day
@@ -56,7 +56,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250206T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250206T144500Z
 LAST-MODIFIED:20240429T114320Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -82,7 +82,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250220T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250220T144500Z
 LAST-MODIFIED:20240429T114320Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -108,7 +108,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250227T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250227T144500Z
 LAST-MODIFIED:20240429T114320Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -134,7 +134,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250313T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250313T144500Z
 LAST-MODIFIED:20240429T114320Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -160,7 +160,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250403T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250403T134500Z
 LAST-MODIFIED:20240429T114320Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -186,7 +186,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250410T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250410T134500Z
 LAST-MODIFIED:20240429T114320Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -212,7 +212,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250417T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250417T134500Z
 LAST-MODIFIED:20240429T114320Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -238,7 +238,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250508T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250508T134500Z
 LAST-MODIFIED:20240429T114320Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -264,7 +264,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250515T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250515T134500Z
 LAST-MODIFIED:20240429T114320Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -289,7 +289,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  A&gt\; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathém
  atiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241010T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241010T083000Z
 LAST-MODIFIED:20240424T192734Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -312,7 +312,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  A&gt\; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathém
  atiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241017T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241017T083000Z
 LAST-MODIFIED:20240424T192734Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -335,7 +335,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  A&gt\; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathém
  atiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241205T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241205T093000Z
 LAST-MODIFIED:20240424T192734Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -358,7 +358,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  A&gt\; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathém
  atiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241211T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241211T144500Z
 LAST-MODIFIED:20240424T192734Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -381,7 +381,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  A&gt\; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathém
  atiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241209T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241209T144500Z
 LAST-MODIFIED:20240424T192734Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -398,136 +398,13 @@ X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-021 - Graphes et intelligence arti
 CATEGORIES:HYPERPLANNING
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiGA.Turing\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scie
- nce and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\
- ; Data Science and Artificial Intelligence\NType : TP\N
-DTEND:20250324T153000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250324T123000Z
-LAST-MODIFIED:20240620T080525Z
-LOCATION;LANGUAGE=fr:NiGA.Turing
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - TP
-UID:Cours-298941-29-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiGA.Turing<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\
- ; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatique
- s\, FA&gt\; Data Science and Artificial Intelligence<br/>Type : TP<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiDeVinci.Russel\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Dat
- a Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, F
- A&gt\; Data Science and Artificial Intelligence\NType : TP\N
-DTEND:20250331T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250331T113000Z
-LAST-MODIFIED:20240620T080525Z
-LOCATION;LANGUAGE=fr:NiDeVinci.Russel
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - TP
-UID:Cours-298941-30-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiDeVinci.Russel<br/>Groupe : &lt\;.MA60 - Sc. informatique
- s&gt\; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informa
- tiques\, FA&gt\; Data Science and Artificial Intelligence<br/>Type : TP<br
- />
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiDeVinci.Russel\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Dat
- a Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, F
- A&gt\; Data Science and Artificial Intelligence\NType : TP\N
-DTEND:20250407T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250407T113000Z
-LAST-MODIFIED:20240620T080525Z
-LOCATION;LANGUAGE=fr:NiDeVinci.Russel
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - TP
-UID:Cours-298941-31-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiDeVinci.Russel<br/>Groupe : &lt\;.MA60 - Sc. informatique
- s&gt\; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informa
- tiques\, FA&gt\; Data Science and Artificial Intelligence<br/>Type : TP<br
- />
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiGA.Turing\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scie
- nce and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\
- ; Data Science and Artificial Intelligence\NType : TP\N
-DTEND:20250414T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250414T113000Z
-LAST-MODIFIED:20240620T080525Z
-LOCATION;LANGUAGE=fr:NiGA.Turing
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - TP
-UID:Cours-298941-32-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiGA.Turing<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\
- ; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatique
- s\, FA&gt\; Data Science and Artificial Intelligence<br/>Type : TP<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiGA.Turing\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scie
- nce and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\
- ; Data Science and Artificial Intelligence\NType : TP\N
-DTEND:20250505T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250505T113000Z
-LAST-MODIFIED:20240620T080525Z
-LOCATION;LANGUAGE=fr:NiGA.Turing
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - TP
-UID:Cours-298941-35-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiGA.Turing<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\
- ; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatique
- s\, FA&gt\; Data Science and Artificial Intelligence<br/>Type : TP<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiDeVinci.Russel\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Dat
- a Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, F
- A&gt\; Data Science and Artificial Intelligence\NType : TP\N
-DTEND:20250512T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250512T113000Z
-LAST-MODIFIED:20240620T080525Z
-LOCATION;LANGUAGE=fr:NiDeVinci.Russel
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - TP
-UID:Cours-298941-36-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiDeVinci.Russel<br/>Groupe : &lt\;.MA60 - Sc. informatique
- s&gt\; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informa
- tiques\, FA&gt\; Data Science and Artificial Intelligence<br/>Type : TP<br
- />
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  alle : NiP.3E11\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scienc
  e and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; D
  ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathématiques
  \, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241114T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241114T123000Z
 LAST-MODIFIED:20240424T192940Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -550,7 +427,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathématiques
  \, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241128T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241128T123000Z
 LAST-MODIFIED:20240424T192940Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -573,7 +450,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathématiques
  \, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241219T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241219T123000Z
 LAST-MODIFIED:20240424T192940Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -596,7 +473,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathématiques
  \, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241120T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241120T071500Z
 LAST-MODIFIED:20240424T192734Z
 LOCATION;LANGUAGE=fr:NiB4.120
@@ -619,7 +496,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathématiques
  \, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241121T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241121T144500Z
 LAST-MODIFIED:20240620T075008Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -642,7 +519,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  a Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathématiques\, 
  FA&gt\; Informatique\NType : Cours\N
 DTEND:20241107T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241107T123000Z
 LAST-MODIFIED:20240620T074654Z
 LOCATION;LANGUAGE=fr:NiB6.18
@@ -666,7 +543,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250205T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250205T144500Z
 LAST-MODIFIED:20240917T122356Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -692,7 +569,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250212T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250212T144500Z
 LAST-MODIFIED:20240917T122356Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -718,7 +595,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250219T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250219T144500Z
 LAST-MODIFIED:20240917T122356Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -744,7 +621,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250226T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250226T144500Z
 LAST-MODIFIED:20240917T122356Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -770,7 +647,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250305T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250305T144500Z
 LAST-MODIFIED:20240917T122356Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -796,7 +673,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250312T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250312T144500Z
 LAST-MODIFIED:20240917T122356Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -822,7 +699,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250326T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250326T144500Z
 LAST-MODIFIED:20240917T122356Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -848,7 +725,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250402T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250402T134500Z
 LAST-MODIFIED:20240917T122356Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -874,7 +751,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250507T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250507T134500Z
 LAST-MODIFIED:20240917T122356Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -900,7 +777,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250514T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250514T134500Z
 LAST-MODIFIED:20240917T122356Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -919,166 +796,6 @@ X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-027 - Knowledge repres.and reasoni
 CATEGORIES:HYPERPLANNING
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiB4.Penrose\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Sci
- ence and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\
- ; Data Science and Artificial Intelligence\NType : Cours\N
-DTEND:20250402T133000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250402T113000Z
-LAST-MODIFIED:20240620T080525Z
-LOCATION;LANGUAGE=fr:NiB4.Penrose
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - Cours
-UID:Cours-308761-30-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiB4.Penrose<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt
- \; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiqu
- es\, FA&gt\; Data Science and Artificial Intelligence<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiP.0A07\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scienc
- e and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; D
- ata Science and Artificial Intelligence\NType : Cours\N
-DTEND:20250212T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250212T123000Z
-LAST-MODIFIED:20240917T122344Z
-LOCATION;LANGUAGE=fr:NiP.0A07
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - Cours
-UID:Cours-308762-23-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiP.0A07<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; D
- ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\
- , FA&gt\; Data Science and Artificial Intelligence<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiP.0A07\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scienc
- e and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; D
- ata Science and Artificial Intelligence\NType : Cours\N
-DTEND:20250219T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250219T123000Z
-LAST-MODIFIED:20240917T122344Z
-LOCATION;LANGUAGE=fr:NiP.0A07
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - Cours
-UID:Cours-308762-24-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiP.0A07<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; D
- ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\
- , FA&gt\; Data Science and Artificial Intelligence<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiP.0A07\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scienc
- e and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; D
- ata Science and Artificial Intelligence\NType : Cours\N
-DTEND:20250226T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250226T123000Z
-LAST-MODIFIED:20240917T122344Z
-LOCATION;LANGUAGE=fr:NiP.0A07
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - Cours
-UID:Cours-308762-25-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiP.0A07<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; D
- ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\
- , FA&gt\; Data Science and Artificial Intelligence<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiP.3E20\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scienc
- e and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; D
- ata Science and Artificial Intelligence\NType : Cours\N
-DTEND:20250305T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250305T123000Z
-LAST-MODIFIED:20240917T122344Z
-LOCATION;LANGUAGE=fr:NiP.3E20
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - Cours
-UID:Cours-308762-26-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiP.3E20<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; D
- ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\
- , FA&gt\; Data Science and Artificial Intelligence<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiP.0A07\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scienc
- e and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; D
- ata Science and Artificial Intelligence\NType : Cours\N
-DTEND:20250326T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250326T123000Z
-LAST-MODIFIED:20240917T122344Z
-LOCATION;LANGUAGE=fr:NiP.0A07
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - Cours
-UID:Cours-308762-29-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiP.0A07<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; D
- ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\
- , FA&gt\; Data Science and Artificial Intelligence<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiP.0A07\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scienc
- e and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; D
- ata Science and Artificial Intelligence\NType : Cours\N
-DTEND:20250416T133000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250416T113000Z
-LAST-MODIFIED:20240917T122344Z
-LOCATION;LANGUAGE=fr:NiP.0A07
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - Cours
-UID:Cours-308762-32-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiP.0A07<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; D
- ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\
- , FA&gt\; Data Science and Artificial Intelligence<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-810 - Deep Learning for Natural Lang\NS
- alle : NiB6.124\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scienc
- e and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; D
- ata Science and Artificial Intelligence\NType : Cours\N
-DTEND:20250507T133000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250507T113000Z
-LAST-MODIFIED:20240917T122344Z
-LOCATION;LANGUAGE=fr:NiB6.124
-SUMMARY;LANGUAGE=fr:S-INFO-810 - Deep Learning for Natural Lang - <.MA60 - 
- Sc. informatiques> Data Science and Artificial Intelligence\, <.MAB1 - Sc
- . informatiques\, FA> Data Science and Artificial Intelligence - Cours
-UID:Cours-308762-35-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-810 - Deep Learning for Natural La
- ng<br/>Salle : NiB6.124<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; D
- ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\
- , FA&gt\; Data Science and Artificial Intelligence<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  alle : NiP.3E11\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Data Scienc
  e and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; D
@@ -1086,7 +803,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250211T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250211T144500Z
 LAST-MODIFIED:20240429T114011Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -1112,7 +829,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250304T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250304T144500Z
 LAST-MODIFIED:20240429T114011Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -1138,7 +855,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250325T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250325T123000Z
 LAST-MODIFIED:20240429T114855Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -1164,7 +881,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-027 - Knowledge repres.and reasoning\NS
  gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intelligence artific
  ielle\NType : Cours/Exercic\N
 DTEND:20250415T133000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250415T113000Z
 LAST-MODIFIED:20240429T114855Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -1189,7 +906,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  a Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathématiques\, 
  FA&gt\; Informatique\NType : Cours\N
 DTEND:20240919T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20240919T083000Z
 LAST-MODIFIED:20240620T074654Z
 LOCATION;LANGUAGE=fr:NiB6.18
@@ -1212,7 +929,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  a Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathématiques\, 
  FA&gt\; Informatique\NType : Cours\N
 DTEND:20240926T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20240926T083000Z
 LAST-MODIFIED:20240620T074654Z
 LOCATION;LANGUAGE=fr:NiB6.18
@@ -1235,7 +952,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathématiques
  \, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241003T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241003T083000Z
 LAST-MODIFIED:20240620T074654Z
 LOCATION;LANGUAGE=fr:NiP.0A11
@@ -1258,7 +975,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-021 - Graphes et intelligence artifi\NS
  ata Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. mathématiques
  \, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241024T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241024T083000Z
 LAST-MODIFIED:20240620T074654Z
 LOCATION;LANGUAGE=fr:NiP.0A11
@@ -1281,7 +998,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &lt\;.MAB1
   - Sc. mathématiques\, FA&gt\; Informatique\NType : Cours\N
 DTEND:20240916T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20240916T061500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -1305,7 +1022,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &lt\;.MAB1
   - Sc. mathématiques\, FA&gt\; Informatique\NType : Cours\N
 DTEND:20240923T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20240923T061500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -1329,7 +1046,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &lt\;.MAB1
   - Sc. mathématiques\, FA&gt\; Informatique\NType : Cours\N
 DTEND:20240930T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20240930T061500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.3E20
@@ -1353,7 +1070,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &lt\;.MAB1
   - Sc. mathématiques\, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241007T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241007T061500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -1377,7 +1094,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &lt\;.MAB1
   - Sc. mathématiques\, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241014T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241014T061500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -1401,7 +1118,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &lt\;.MAB1
   - Sc. mathématiques\, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241021T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241021T061500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -1425,7 +1142,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &lt\;.MAB1
   - Sc. mathématiques\, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241104T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241104T071500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -1449,7 +1166,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\NType : Cour
  s\N
 DTEND:20241118T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241118T071500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -1472,7 +1189,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\NType : Cour
  s\N
 DTEND:20241125T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241125T071500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -1495,7 +1212,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\NType : Cour
  s\N
 DTEND:20241202T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241202T071500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -1518,7 +1235,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &lt\;.MAB1
   - Sc. mathématiques\, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241209T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241209T071500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.0A11
@@ -1542,7 +1259,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  orks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &lt\;.MAB1
   - Sc. mathématiques\, FA&gt\; Informatique\NType : Cours\N
 DTEND:20241216T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241216T071500Z
 LAST-MODIFIED:20240429T105204Z
 LOCATION;LANGUAGE=fr:NiP.0A11
@@ -1566,7 +1283,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241009T153000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241009T113000Z
 LAST-MODIFIED:20240620T074033Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1590,7 +1307,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241008T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241008T083000Z
 LAST-MODIFIED:20240430T122455Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1614,7 +1331,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241015T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241015T083000Z
 LAST-MODIFIED:20240430T122455Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1638,7 +1355,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241022T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241022T083000Z
 LAST-MODIFIED:20240430T122455Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1662,7 +1379,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241105T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241105T093000Z
 LAST-MODIFIED:20240430T122455Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1686,7 +1403,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241016T153000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241016T113000Z
 LAST-MODIFIED:20240430T132423Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1710,7 +1427,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241113T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241113T093000Z
 LAST-MODIFIED:20240430T122455Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1734,7 +1451,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241120T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241120T093000Z
 LAST-MODIFIED:20240430T122455Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1758,7 +1475,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241127T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241127T093000Z
 LAST-MODIFIED:20240430T122455Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1782,7 +1499,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241204T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241204T093000Z
 LAST-MODIFIED:20240430T122455Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1806,7 +1523,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241211T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241211T093000Z
 LAST-MODIFIED:20240430T122455Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1830,7 +1547,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-028 - Selected topics computer net.\NSa
  uter Networks and Security\, &lt\;.MA60 - Sc. mathématiques&gt\; info\, &
  lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informatique\NType : TP\N
 DTEND:20241218T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241218T093000Z
 LAST-MODIFIED:20240430T122455Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -1858,7 +1575,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiP.0A07
  t\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS Ene
  rgy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250203T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250203T093000Z
 LAST-MODIFIED:20240426T172230Z
 LOCATION;LANGUAGE=fr:NiP.0A07
@@ -1893,7 +1610,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiP.0A07
  t\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS Ene
  rgy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250210T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250210T093000Z
 LAST-MODIFIED:20240426T172230Z
 LOCATION;LANGUAGE=fr:NiP.0A07
@@ -1928,7 +1645,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiP.0A07
  t\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS Ene
  rgy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250217T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250217T093000Z
 LAST-MODIFIED:20240426T172230Z
 LOCATION;LANGUAGE=fr:NiP.0A07
@@ -1963,7 +1680,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiMen.Pa
  e&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS 
  Energy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250224T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250224T093000Z
 LAST-MODIFIED:20240426T172230Z
 LOCATION;LANGUAGE=fr:NiMen.Pauling
@@ -1999,7 +1716,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiMen.Pa
  e&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS 
  Energy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250303T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250303T093000Z
 LAST-MODIFIED:20240426T172230Z
 LOCATION;LANGUAGE=fr:NiMen.Pauling
@@ -2035,7 +1752,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiMen.Pa
  e&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS 
  Energy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250310T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250310T093000Z
 LAST-MODIFIED:20240426T172230Z
 LOCATION;LANGUAGE=fr:NiMen.Pauling
@@ -2071,7 +1788,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiMen.Pa
  e&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS 
  Energy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250324T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250324T093000Z
 LAST-MODIFIED:20240426T172230Z
 LOCATION;LANGUAGE=fr:NiMen.Pauling
@@ -2107,7 +1824,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiP.0A07
  t\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS Ene
  rgy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250505T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250505T083000Z
 LAST-MODIFIED:20240426T172230Z
 LOCATION;LANGUAGE=fr:NiP.0A07
@@ -2142,7 +1859,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiP.0A11
  t\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS Ene
  rgy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250512T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250512T083000Z
 LAST-MODIFIED:20240426T172230Z
 LOCATION;LANGUAGE=fr:NiP.0A11
@@ -2177,7 +1894,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiDeVinc
   Usage&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\
  , FS Energy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250506T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250506T061500Z
 LAST-MODIFIED:20240417T132012Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -2213,7 +1930,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiDeVinc
   Usage&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\
  , FS Energy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250513T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250513T061500Z
 LAST-MODIFIED:20240417T132012Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -2244,7 +1961,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  orks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Netw
  orks and Security\NType : Cours\N
 DTEND:20250206T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250206T093000Z
 LAST-MODIFIED:20240429T072927Z
 LOCATION;LANGUAGE=fr:NiB6.18
@@ -2264,7 +1981,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  works and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Net
  works and Security\NType : Cours\N
 DTEND:20250213T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250213T093000Z
 LAST-MODIFIED:20240429T072927Z
 LOCATION;LANGUAGE=fr:NiB6.124
@@ -2284,7 +2001,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  works and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Net
  works and Security\NType : Cours\N
 DTEND:20250220T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250220T093000Z
 LAST-MODIFIED:20240429T072927Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -2304,7 +2021,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  orks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Netw
  orks and Security\NType : Cours\N
 DTEND:20250227T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250227T093000Z
 LAST-MODIFIED:20240429T072927Z
 LOCATION;LANGUAGE=fr:NiB6.18
@@ -2324,7 +2041,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  works and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Net
  works and Security\NType : Cours\N
 DTEND:20250306T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250306T093000Z
 LAST-MODIFIED:20240429T072927Z
 LOCATION;LANGUAGE=fr:NiB6.124
@@ -2344,7 +2061,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  works and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Net
  works and Security\NType : Cours\N
 DTEND:20250313T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250313T093000Z
 LAST-MODIFIED:20240429T072927Z
 LOCATION;LANGUAGE=fr:NiB6.124
@@ -2364,7 +2081,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  orks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Netw
  orks and Security\NType : Cours\N
 DTEND:20250327T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250327T093000Z
 LAST-MODIFIED:20240429T072927Z
 LOCATION;LANGUAGE=fr:NiB6.18
@@ -2384,7 +2101,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  orks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Netw
  orks and Security\NType : Cours\N
 DTEND:20250403T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250403T083000Z
 LAST-MODIFIED:20240429T072927Z
 LOCATION;LANGUAGE=fr:NiB6.18
@@ -2404,7 +2121,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  works and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Net
  works and Security\NType : Cours\N
 DTEND:20250410T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250410T083000Z
 LAST-MODIFIED:20240429T072927Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -2424,7 +2141,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  uter Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Comp
  uter Networks and Security\NType : Exercices\N
 DTEND:20250303T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250303T071500Z
 LAST-MODIFIED:20240429T101313Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -2444,7 +2161,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  uter Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Comp
  uter Networks and Security\NType : Exercices\N
 DTEND:20250310T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250310T071500Z
 LAST-MODIFIED:20240429T101313Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -2464,7 +2181,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  uter Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Comp
  uter Networks and Security\NType : Exercices\N
 DTEND:20250324T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250324T071500Z
 LAST-MODIFIED:20240429T101313Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -2484,7 +2201,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  uter Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Comp
  uter Networks and Security\NType : Exercices\N
 DTEND:20250414T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250414T061500Z
 LAST-MODIFIED:20240429T101313Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -2504,7 +2221,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  uter Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Comp
  uter Networks and Security\NType : Exercices\N
 DTEND:20250505T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250505T061500Z
 LAST-MODIFIED:20240429T101313Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -2524,7 +2241,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-444 - Selected topics in Cybersecuri\NS
  uter Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Comp
  uter Networks and Security\NType : Exercices\N
 DTEND:20250512T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250512T061500Z
 LAST-MODIFIED:20240429T101313Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -2549,7 +2266,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiGA.Tur
  &gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS E
  nergy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250415T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250415T083000Z
 LAST-MODIFIED:20240418T132934Z
 LOCATION;LANGUAGE=fr:NiGA.Turing
@@ -2584,7 +2301,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiP.0A11
  t\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS Ene
  rgy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250407T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250407T083000Z
 LAST-MODIFIED:20240426T143951Z
 LOCATION;LANGUAGE=fr:NiP.0A11
@@ -2614,7 +2331,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-445 - Seminar in Cybersecurity\NSalle
  s and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Network
  s and Security\NType : Cours\N
 DTEND:20250507T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250507T083000Z
 LAST-MODIFIED:20240416T092155Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -2634,7 +2351,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-445 - Seminar in Cybersecurity\NSalle
  s and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Network
  s and Security\NType : Cours\N
 DTEND:20250514T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250514T083000Z
 LAST-MODIFIED:20240416T092155Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -2654,7 +2371,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-445 - Seminar in Cybersecurity\NSalle
  r Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Compute
  r Networks and Security\NType : TP\N
 DTEND:20250204T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250204T071500Z
 LAST-MODIFIED:20240416T093050Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -2674,7 +2391,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-445 - Seminar in Cybersecurity\NSalle
  r Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Compute
  r Networks and Security\NType : TP\N
 DTEND:20250211T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250211T071500Z
 LAST-MODIFIED:20240416T093050Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -2694,7 +2411,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-445 - Seminar in Cybersecurity\NSalle
  r Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Compute
  r Networks and Security\NType : TP\N
 DTEND:20250218T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250218T071500Z
 LAST-MODIFIED:20240416T093050Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -2714,7 +2431,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-445 - Seminar in Cybersecurity\NSalle
  r Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Compute
  r Networks and Security\NType : TP\N
 DTEND:20250225T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250225T071500Z
 LAST-MODIFIED:20240416T093050Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -2734,7 +2451,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-445 - Seminar in Cybersecurity\NSalle
  r Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Compute
  r Networks and Security\NType : TP\N
 DTEND:20250304T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250304T071500Z
 LAST-MODIFIED:20240416T093050Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -2754,7 +2471,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-445 - Seminar in Cybersecurity\NSalle
  r Networks and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Compute
  r Networks and Security\NType : TP\N
 DTEND:20250311T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250311T071500Z
 LAST-MODIFIED:20240416T093050Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -2774,7 +2491,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-445 - Seminar in Cybersecurity\NSalle
  s and Security\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Network
  s and Security\NType : Cours\N
 DTEND:20250508T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250508T061500Z
 LAST-MODIFIED:20240416T092306Z
 LOCATION;LANGUAGE=fr:NiP.3E20
@@ -2799,7 +2516,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiP.0A07
  t\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS Ene
  rgy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250331T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250331T083000Z
 LAST-MODIFIED:20240418T123617Z
 LOCATION;LANGUAGE=fr:NiP.0A07
@@ -2834,7 +2551,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiP.0A11
  t\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS Ene
  rgy Usage in Cities&&gt\; Cybersécurité\NType : Cours\N
 DTEND:20250414T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250414T083000Z
 LAST-MODIFIED:20240418T123617Z
 LOCATION;LANGUAGE=fr:NiP.0A11
@@ -2869,7 +2586,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiGA.Tur
  &gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS E
  nergy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250401T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250401T083000Z
 LAST-MODIFIED:20240418T125216Z
 LOCATION;LANGUAGE=fr:NiGA.Turing
@@ -2904,7 +2621,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiGA.Tur
  &gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\, FS E
  nergy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250408T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250408T083000Z
 LAST-MODIFIED:20240418T125757Z
 LOCATION;LANGUAGE=fr:NiGA.Turing
@@ -2939,7 +2656,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiDeVinc
   Usage&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\
  , FS Energy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250206T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250206T071500Z
 LAST-MODIFIED:20240418T132856Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -2975,7 +2692,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiDeVinc
   Usage&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\
  , FS Energy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250213T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250213T071500Z
 LAST-MODIFIED:20240418T132856Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -3011,7 +2728,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiDeVinc
   Usage&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\
  , FS Energy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250220T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250220T071500Z
 LAST-MODIFIED:20240418T132856Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -3047,7 +2764,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiDeVinc
   Usage&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\
  , FS Energy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250227T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250227T071500Z
 LAST-MODIFIED:20240418T132856Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -3083,7 +2800,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiDeVinc
   Usage&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\
  , FS Energy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250306T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250306T071500Z
 LAST-MODIFIED:20240418T132856Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -3119,7 +2836,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiDeVinc
   Usage&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\
  , FS Energy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250313T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250313T071500Z
 LAST-MODIFIED:20240418T132856Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -3155,7 +2872,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-044 - Cybersécurité\NSalle : NiDeVinc
   Usage&gt\; Cybersécurité\, &lt\;.MAB2 - Ir. civil génie de l'énergie\
  , FS Energy Usage in Cities&&gt\; Cybersécurité\NType : TP\N
 DTEND:20250327T091500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250327T071500Z
 LAST-MODIFIED:20240418T132856Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Russel
@@ -3187,7 +2904,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250417T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250417T061500Z
 LAST-MODIFIED:20240514T083627Z
 LOCATION;LANGUAGE=fr:NiP.0A07
@@ -3210,7 +2927,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250205T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250205T093000Z
 LAST-MODIFIED:20240429T131750Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -3233,7 +2950,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250212T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250212T093000Z
 LAST-MODIFIED:20240429T131750Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -3256,7 +2973,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250226T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250226T093000Z
 LAST-MODIFIED:20240429T131750Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -3279,7 +2996,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250305T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250305T093000Z
 LAST-MODIFIED:20240429T131750Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -3302,7 +3019,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250312T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250312T093000Z
 LAST-MODIFIED:20240429T131750Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -3325,7 +3042,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250326T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250326T093000Z
 LAST-MODIFIED:20240429T131750Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -3348,7 +3065,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250409T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250409T083000Z
 LAST-MODIFIED:20240429T131750Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -3371,7 +3088,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250416T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250416T083000Z
 LAST-MODIFIED:20240429T131750Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -3394,7 +3111,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250403T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250403T061500Z
 LAST-MODIFIED:20240514T083247Z
 LOCATION;LANGUAGE=fr:NiB4.120
@@ -3417,7 +3134,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250327T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250327T144500Z
 LAST-MODIFIED:20240620T075856Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3440,7 +3157,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250410T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250410T061500Z
 LAST-MODIFIED:20240502T095746Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -3463,7 +3180,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250224T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250224T144500Z
 LAST-MODIFIED:20240502T101621Z
 LOCATION;LANGUAGE=fr:NiB4.120
@@ -3486,7 +3203,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250310T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250310T144500Z
 LAST-MODIFIED:20240502T101754Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3509,7 +3226,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  ques&gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, 
  FA&gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250218T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250218T123000Z
 LAST-MODIFIED:20240502T101754Z
 LOCATION;LANGUAGE=fr:NiGA.Pascal
@@ -3533,7 +3250,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  ques&gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, 
  FA&gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250304T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250304T123000Z
 LAST-MODIFIED:20240502T101754Z
 LOCATION;LANGUAGE=fr:NiGA.Pascal
@@ -3557,7 +3274,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250506T133000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250506T113000Z
 LAST-MODIFIED:20240502T101754Z
 LOCATION;LANGUAGE=fr:NiB4.233
@@ -3580,7 +3297,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250513T133000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250513T113000Z
 LAST-MODIFIED:20240502T101754Z
 LOCATION;LANGUAGE=fr:NiP.3E10
@@ -3603,7 +3320,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250402T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250402T083000Z
 LAST-MODIFIED:20240514T134245Z
 LOCATION;LANGUAGE=fr:NiP.3E11
@@ -3626,7 +3343,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NGroupe : &
  Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Theoritical Co
  mputer Science\NType : Cours/Exercic\N
 DTEND:20250507T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250507T061500Z
 LAST-MODIFIED:20240514T134709Z
 SUMMARY;LANGUAGE=fr:S-INFO-023 - Calcul.et complexité - <.MA60 - Sc. math
@@ -3648,7 +3365,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250514T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250514T061500Z
 LAST-MODIFIED:20240514T134709Z
 LOCATION;LANGUAGE=fr:NiP.0A11
@@ -3671,7 +3388,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250203T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250203T123000Z
 LAST-MODIFIED:20240620T075856Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3694,7 +3411,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250210T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250210T123000Z
 LAST-MODIFIED:20240620T075856Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3717,7 +3434,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-023 - Calcul.et complexité\NSalle : Ni
  &gt\; Theoritical Computer Science\, &lt\;.MAB1 - Sc. informatiques\, FA&
  gt\; Theoritical Computer Science\NType : Cours/Exercic\N
 DTEND:20250217T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250217T123000Z
 LAST-MODIFIED:20240620T075856Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3734,13 +3451,153 @@ X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-023 - Calcul.et complexité<br/>Sa
 CATEGORIES:HYPERPLANNING
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-208 - Cloud and Edge Computing\NSalle 
+ : Ho.IGLab\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Developm
+ ent\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType 
+ : TP\N
+DTEND:20250331T153000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250331T113000Z
+LAST-MODIFIED:20240422T121237Z
+LOCATION;LANGUAGE=fr:Ho.IGLab
+SUMMARY;LANGUAGE=fr:I-ILIA-208 - Cloud and Edge Computing - <.MA60 - Sc. in
+ formatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Softw
+ are Development - TP
+UID:Cours-219017-30-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : I-ILIA-208 - Cloud and Edge Computing<br/
+ >Salle : Ho.IGLab<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Softwar
+ e Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Developm
+ ent<br/>Type : TP<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-208 - Cloud and Edge Computing\NSalle 
+ : Ho.IGLab\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Developm
+ ent\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType 
+ : TP\N
+DTEND:20250407T153000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250407T113000Z
+LAST-MODIFIED:20240422T121237Z
+LOCATION;LANGUAGE=fr:Ho.IGLab
+SUMMARY;LANGUAGE=fr:I-ILIA-208 - Cloud and Edge Computing - <.MA60 - Sc. in
+ formatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Softw
+ are Development - TP
+UID:Cours-219017-31-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : I-ILIA-208 - Cloud and Edge Computing<br/
+ >Salle : Ho.IGLab<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Softwar
+ e Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Developm
+ ent<br/>Type : TP<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-208 - Cloud and Edge Computing\NSalle 
+ : Ho.IGLab\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Developm
+ ent\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType 
+ : TP\N
+DTEND:20250414T153000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250414T113000Z
+LAST-MODIFIED:20240422T121237Z
+LOCATION;LANGUAGE=fr:Ho.IGLab
+SUMMARY;LANGUAGE=fr:I-ILIA-208 - Cloud and Edge Computing - <.MA60 - Sc. in
+ formatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Softw
+ are Development - TP
+UID:Cours-219017-32-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : I-ILIA-208 - Cloud and Edge Computing<br/
+ >Salle : Ho.IGLab<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Softwar
+ e Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Developm
+ ent<br/>Type : TP<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-096 - Advanced Operating Systems\NSall
+ e : NiB4.120\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Develo
+ pment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NTyp
+ e : Cours\N
+DTEND:20250205T091500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250205T071500Z
+LAST-MODIFIED:20240430T085652Z
+LOCATION;LANGUAGE=fr:NiB4.120
+SUMMARY;LANGUAGE=fr:S-INFO-096 - Advanced Operating Systems - <.MA60 - Sc. 
+ informatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Sof
+ tware Development - Cours
+UID:Cours-268916-22-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-096 - Advanced Operating Systems<b
+ r/>Salle : NiB4.120<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Softw
+ are Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Develo
+ pment<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-096 - Advanced Operating Systems\NSall
+ e : NiB4.120\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Develo
+ pment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NTyp
+ e : Cours\N
+DTEND:20250212T091500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250212T071500Z
+LAST-MODIFIED:20240430T085652Z
+LOCATION;LANGUAGE=fr:NiB4.120
+SUMMARY;LANGUAGE=fr:S-INFO-096 - Advanced Operating Systems - <.MA60 - Sc. 
+ informatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Sof
+ tware Development - Cours
+UID:Cours-268916-23-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-096 - Advanced Operating Systems<b
+ r/>Salle : NiB4.120<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Softw
+ are Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Develo
+ pment<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-096 - Advanced Operating Systems\NSall
+ e : NiB4.120\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Develo
+ pment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NTyp
+ e : Cours\N
+DTEND:20250226T091500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250226T071500Z
+LAST-MODIFIED:20240430T085652Z
+LOCATION;LANGUAGE=fr:NiB4.120
+SUMMARY;LANGUAGE=fr:S-INFO-096 - Advanced Operating Systems - <.MA60 - Sc. 
+ informatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Sof
+ tware Development - Cours
+UID:Cours-268916-25-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-096 - Advanced Operating Systems<b
+ r/>Salle : NiB4.120<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Softw
+ are Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Develo
+ pment<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-096 - Advanced Operating Systems\NSall
+ e : NiDeVinci.Vaughan\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Softwa
+ re Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Develop
+ ment\NMémo : workshop\NType : Exercices\N
+DTEND:20250325T164500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250325T144500Z
+LAST-MODIFIED:20240430T085746Z
+LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
+SUMMARY;LANGUAGE=fr:S-INFO-096 - Advanced Operating Systems - <.MA60 - Sc. 
+ informatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Sof
+ tware Development - workshop - Exercices
+UID:Cours-268918-29-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-096 - Advanced Operating Systems<b
+ r/>Salle : NiDeVinci.Vaughan<br/>Groupe : &lt\;.MA60 - Sc. informatiques&g
+ t\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Softwa
+ re Development<br/>Mémo : workshop<br/>Type : Exercices<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiDeV
  inci.Vaughan\NGroupe : &lt\;.MA60 - Sc. mathématiques&gt\; info\, &lt\;.M
  AB1 - Sc. mathématiques\, FA&gt\; Informatique\, &lt\;.MA60 - Sc. informa
  tiques&gt\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\
  ; Software Development\NType : TP\N
 DTEND:20250225T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250225T123000Z
 LAST-MODIFIED:20240502T101639Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -3763,7 +3620,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiDeV
  tiques&gt\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\
  ; Software Development\NType : TP\N
 DTEND:20250311T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250311T123000Z
 LAST-MODIFIED:20240502T102303Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -3780,13 +3637,153 @@ X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-029 - Software evolution<br/>Sall
 CATEGORIES:HYPERPLANNING
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-096 - Advanced Operating Systems\NSall
+ e : NiP.0A07\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Develo
+ pment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NTyp
+ e : Exercices\N
+DTEND:20250505T133000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250505T113000Z
+LAST-MODIFIED:20240430T090909Z
+LOCATION;LANGUAGE=fr:NiP.0A07
+SUMMARY;LANGUAGE=fr:S-INFO-096 - Advanced Operating Systems - <.MA60 - Sc. 
+ informatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Sof
+ tware Development - Exercices
+UID:Cours-282353-35-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-096 - Advanced Operating Systems<b
+ r/>Salle : NiP.0A07<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Softw
+ are Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Develo
+ pment<br/>Type : Exercices<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-096 - Advanced Operating Systems\NSall
+ e : NiP.0A07\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Develo
+ pment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NTyp
+ e : Exercices\N
+DTEND:20250507T154500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250507T134500Z
+LAST-MODIFIED:20240430T090909Z
+LOCATION;LANGUAGE=fr:NiP.0A07
+SUMMARY;LANGUAGE=fr:S-INFO-096 - Advanced Operating Systems - <.MA60 - Sc. 
+ informatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Sof
+ tware Development - Exercices
+UID:Cours-291081-35-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-096 - Advanced Operating Systems<b
+ r/>Salle : NiP.0A07<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Softw
+ are Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Develo
+ pment<br/>Type : Exercices<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-208 - Cloud and Edge Computing\NSalle 
+ : Ho.23\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development
+ \, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : C
+ ours\N
+DTEND:20250326T143000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250326T123000Z
+LAST-MODIFIED:20240917T121758Z
+LOCATION;LANGUAGE=fr:Ho.23
+SUMMARY;LANGUAGE=fr:I-ILIA-208 - Cloud and Edge Computing - <.MA60 - Sc. in
+ formatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Softw
+ are Development - Cours
+UID:Cours-299271-29-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : I-ILIA-208 - Cloud and Edge Computing<br/
+ >Salle : Ho.23<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Software D
+ evelopment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development
+ <br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-208 - Cloud and Edge Computing\NSalle 
+ : Ho.23\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development
+ \, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : C
+ ours\N
+DTEND:20250402T133000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250402T113000Z
+LAST-MODIFIED:20240917T121758Z
+LOCATION;LANGUAGE=fr:Ho.23
+SUMMARY;LANGUAGE=fr:I-ILIA-208 - Cloud and Edge Computing - <.MA60 - Sc. in
+ formatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Softw
+ are Development - Cours
+UID:Cours-299271-30-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : I-ILIA-208 - Cloud and Edge Computing<br/
+ >Salle : Ho.23<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Software D
+ evelopment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development
+ <br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-208 - Cloud and Edge Computing\NSalle 
+ : Ho.23\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development
+ \, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : C
+ ours\N
+DTEND:20250416T133000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250416T113000Z
+LAST-MODIFIED:20240917T121758Z
+LOCATION;LANGUAGE=fr:Ho.23
+SUMMARY;LANGUAGE=fr:I-ILIA-208 - Cloud and Edge Computing - <.MA60 - Sc. in
+ formatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Softw
+ are Development - Cours
+UID:Cours-299271-32-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : I-ILIA-208 - Cloud and Edge Computing<br/
+ >Salle : Ho.23<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Software D
+ evelopment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development
+ <br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-208 - Cloud and Edge Computing\NSalle 
+ : Ho.23\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development
+ \, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : C
+ ours\N
+DTEND:20250324T143000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250324T123000Z
+LAST-MODIFIED:20240917T121758Z
+LOCATION;LANGUAGE=fr:Ho.23
+SUMMARY;LANGUAGE=fr:I-ILIA-208 - Cloud and Edge Computing - <.MA60 - Sc. in
+ formatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Softw
+ are Development - Cours
+UID:Cours-299291-29-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : I-ILIA-208 - Cloud and Edge Computing<br/
+ >Salle : Ho.23<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Software D
+ evelopment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development
+ <br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-096 - Advanced Operating Systems\NSall
+ e : NiDeVinci.Vaughan\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Softwa
+ re Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Develop
+ ment\NType : Exercices\N
+DTEND:20250401T133000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250401T113000Z
+LAST-MODIFIED:20240502T095306Z
+LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
+SUMMARY;LANGUAGE=fr:S-INFO-096 - Advanced Operating Systems - <.MA60 - Sc. 
+ informatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Sof
+ tware Development - Exercices
+UID:Cours-308716-30-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-096 - Advanced Operating Systems<b
+ r/>Salle : NiDeVinci.Vaughan<br/>Groupe : &lt\;.MA60 - Sc. informatiques&g
+ t\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Softwa
+ re Development<br/>Type : Exercices<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiDeV
  inci.Vaughan\NGroupe : &lt\;.MA60 - Sc. mathématiques&gt\; info\, &lt\;.M
  AB1 - Sc. mathématiques\, FA&gt\; Informatique\, &lt\;.MA60 - Sc. informa
  tiques&gt\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\
  ; Software Development\NType : TP\N
 DTEND:20250219T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250219T071500Z
 LAST-MODIFIED:20240502T094411Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -3809,7 +3806,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiDeV
  tiques&gt\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\
  ; Software Development\NType : TP\N
 DTEND:20250306T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250306T123000Z
 LAST-MODIFIED:20240502T094411Z
 LOCATION;LANGUAGE=fr:NiDeVinci.Vaughan
@@ -3831,7 +3828,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiB4.
  \;.MA60 - Sc. informatiques&gt\; Software Development\, &lt\;.MAB1 - Sc. i
  nformatiques\, FA&gt\; Software Development\NType : Cours\N
 DTEND:20250418T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250418T134500Z
 LAST-MODIFIED:20240502T094559Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3853,7 +3850,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiB4.
  t\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Softw
  are Development\NType : Cours\N
 DTEND:20250207T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250207T144500Z
 LAST-MODIFIED:20240502T094545Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3876,7 +3873,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiB4.
  t\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Softw
  are Development\NType : Cours\N
 DTEND:20250214T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250214T144500Z
 LAST-MODIFIED:20240502T094545Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3899,7 +3896,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiB4.
  t\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Softw
  are Development\NType : Cours\N
 DTEND:20250221T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250221T144500Z
 LAST-MODIFIED:20240502T094545Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3922,7 +3919,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiB4.
  t\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Softw
  are Development\NType : Cours\N
 DTEND:20250228T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250228T144500Z
 LAST-MODIFIED:20240502T094545Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3945,7 +3942,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiB4.
  t\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Softw
  are Development\NType : Cours\N
 DTEND:20250307T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250307T144500Z
 LAST-MODIFIED:20240502T094545Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3968,7 +3965,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiB4.
  t\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Softw
  are Development\NType : Cours\N
 DTEND:20250314T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250314T144500Z
 LAST-MODIFIED:20240502T094545Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -3991,7 +3988,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiB4.
  t\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Softw
  are Development\NType : Cours\N
 DTEND:20250328T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250328T144500Z
 LAST-MODIFIED:20240502T094545Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -4014,7 +4011,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiB4.
  t\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Softw
  are Development\NType : Cours\N
 DTEND:20250404T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250404T134500Z
 LAST-MODIFIED:20240502T094545Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -4037,7 +4034,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-029 - Software evolution\NSalle : NiB4.
  t\; Software Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Softw
  are Development\NType : Cours\N
 DTEND:20250411T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250411T134500Z
 LAST-MODIFIED:20240502T094545Z
 LOCATION;LANGUAGE=fr:NiB4.119
@@ -4054,12 +4051,483 @@ X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-029 - Software evolution<br/>Sall
 CATEGORIES:HYPERPLANNING
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-208 - Cloud and Edge Computing\NSalle 
+ : Ho.23\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development
+ \, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : C
+ ours\N
+DTEND:20250401T081500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250401T061500Z
+LAST-MODIFIED:20240917T121758Z
+LOCATION;LANGUAGE=fr:Ho.23
+SUMMARY;LANGUAGE=fr:I-ILIA-208 - Cloud and Edge Computing - <.MA60 - Sc. in
+ formatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Softw
+ are Development - Cours
+UID:Cours-313948-30-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : I-ILIA-208 - Cloud and Edge Computing<br/
+ >Salle : Ho.23<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Software D
+ evelopment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development
+ <br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-208 - Cloud and Edge Computing\NSalle 
+ : Ho.23\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development
+ \, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : C
+ ours\N
+DTEND:20250408T081500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250408T061500Z
+LAST-MODIFIED:20240917T121758Z
+LOCATION;LANGUAGE=fr:Ho.23
+SUMMARY;LANGUAGE=fr:I-ILIA-208 - Cloud and Edge Computing - <.MA60 - Sc. in
+ formatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Softw
+ are Development - Cours
+UID:Cours-313948-31-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : I-ILIA-208 - Cloud and Edge Computing<br/
+ >Salle : Ho.23<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Software D
+ evelopment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development
+ <br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : S-INFO-096 - Advanced Operating Systems\NSall
+ e : NiP.0A07\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Develo
+ pment\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NTyp
+ e : Exercices\N
+DTEND:20250509T154500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250509T134500Z
+LAST-MODIFIED:20240430T091155Z
+LOCATION;LANGUAGE=fr:NiP.0A07
+SUMMARY;LANGUAGE=fr:S-INFO-096 - Advanced Operating Systems - <.MA60 - Sc. 
+ informatiques> Software Development\, <.MAB1 - Sc. informatiques\, FA> Sof
+ tware Development - Exercices
+UID:Cours-321363-35-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : S-INFO-096 - Advanced Operating Systems<b
+ r/>Salle : NiP.0A07<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Softw
+ are Development\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Software Develo
+ pment<br/>Type : Exercices<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-654 - English for Sc Com part 2\NSalle
+ s : NiMen.Pauling\, NiP.3E20\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt
+ \; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu
+ \, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - S
+ c. informatiques\, FA&gt\; Foreign Languages\NType : Cours\N
+DTEND:20250207T091500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250207T071500Z
+LAST-MODIFIED:20240426T165654Z
+LOCATION;LANGUAGE=fr:NiMen.Pauling\, NiP.3E20
+SUMMARY;LANGUAGE=fr:V-LANG-654 - English for Sc Com part 2 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours
+UID:Cours-141203-22-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-654 - English for Sc Com part 2<br
+ />Salles : NiMen.Pauling\, NiP.3E20<br/>Groupe : &lt\;.BAB3 - Sc. mathéma
+ tiques&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscienti
+ ficcommu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.M
+ AB1 - Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-654 - English for Sc Com part 2\NSalle
+ s : NiMen.Pauling\, NiP.3E20\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt
+ \; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu
+ \, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - S
+ c. informatiques\, FA&gt\; Foreign Languages\NType : Cours\N
+DTEND:20250214T091500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250214T071500Z
+LAST-MODIFIED:20240426T165654Z
+LOCATION;LANGUAGE=fr:NiMen.Pauling\, NiP.3E20
+SUMMARY;LANGUAGE=fr:V-LANG-654 - English for Sc Com part 2 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours
+UID:Cours-141203-23-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-654 - English for Sc Com part 2<br
+ />Salles : NiMen.Pauling\, NiP.3E20<br/>Groupe : &lt\;.BAB3 - Sc. mathéma
+ tiques&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscienti
+ ficcommu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.M
+ AB1 - Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-654 - English for Sc Com part 2\NSalle
+ s : NiMen.Pauling\, NiP.0A07\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt
+ \; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu
+ \, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - S
+ c. informatiques\, FA&gt\; Foreign Languages\NType : Cours\N
+DTEND:20250221T091500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250221T071500Z
+LAST-MODIFIED:20240426T165654Z
+LOCATION;LANGUAGE=fr:NiMen.Pauling\, NiP.0A07
+SUMMARY;LANGUAGE=fr:V-LANG-654 - English for Sc Com part 2 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours
+UID:Cours-141203-24-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-654 - English for Sc Com part 2<br
+ />Salles : NiMen.Pauling\, NiP.0A07<br/>Groupe : &lt\;.BAB3 - Sc. mathéma
+ tiques&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscienti
+ ficcommu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.M
+ AB1 - Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-654 - English for Sc Com part 2\NSalle
+ s : NiMen.Pauling\, NiP.0A07\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt
+ \; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu
+ \, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - S
+ c. informatiques\, FA&gt\; Foreign Languages\NType : Cours\N
+DTEND:20250228T091500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250228T071500Z
+LAST-MODIFIED:20240426T165654Z
+LOCATION;LANGUAGE=fr:NiMen.Pauling\, NiP.0A07
+SUMMARY;LANGUAGE=fr:V-LANG-654 - English for Sc Com part 2 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours
+UID:Cours-141203-25-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-654 - English for Sc Com part 2<br
+ />Salles : NiMen.Pauling\, NiP.0A07<br/>Groupe : &lt\;.BAB3 - Sc. mathéma
+ tiques&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscienti
+ ficcommu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.M
+ AB1 - Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-654 - English for Sc Com part 2\NSalle
+ s : NiMen.Pauling\, NiP.3E20\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt
+ \; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu
+ \, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - S
+ c. informatiques\, FA&gt\; Foreign Languages\NType : Cours\N
+DTEND:20250307T091500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250307T071500Z
+LAST-MODIFIED:20240426T165654Z
+LOCATION;LANGUAGE=fr:NiMen.Pauling\, NiP.3E20
+SUMMARY;LANGUAGE=fr:V-LANG-654 - English for Sc Com part 2 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours
+UID:Cours-141203-26-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-654 - English for Sc Com part 2<br
+ />Salles : NiMen.Pauling\, NiP.3E20<br/>Groupe : &lt\;.BAB3 - Sc. mathéma
+ tiques&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscienti
+ ficcommu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.M
+ AB1 - Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-654 - English for Sc Com part 2\NSalle
+ s : NiMen.Pauling\, NiP.3E20\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt
+ \; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu
+ \, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - S
+ c. informatiques\, FA&gt\; Foreign Languages\NType : Cours\N
+DTEND:20250314T091500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250314T071500Z
+LAST-MODIFIED:20240426T165654Z
+LOCATION;LANGUAGE=fr:NiMen.Pauling\, NiP.3E20
+SUMMARY;LANGUAGE=fr:V-LANG-654 - English for Sc Com part 2 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours
+UID:Cours-141203-27-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-654 - English for Sc Com part 2<br
+ />Salles : NiMen.Pauling\, NiP.3E20<br/>Groupe : &lt\;.BAB3 - Sc. mathéma
+ tiques&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscienti
+ ficcommu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.M
+ AB1 - Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-654 - English for Sc Com part 2\NSalle
+ s : NiMen.Pauling\, NiP.3E20\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt
+ \; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu
+ \, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - S
+ c. informatiques\, FA&gt\; Foreign Languages\NType : Cours\N
+DTEND:20250328T091500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250328T071500Z
+LAST-MODIFIED:20240426T165654Z
+LOCATION;LANGUAGE=fr:NiMen.Pauling\, NiP.3E20
+SUMMARY;LANGUAGE=fr:V-LANG-654 - English for Sc Com part 2 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours
+UID:Cours-141203-29-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-654 - English for Sc Com part 2<br
+ />Salles : NiMen.Pauling\, NiP.3E20<br/>Groupe : &lt\;.BAB3 - Sc. mathéma
+ tiques&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscienti
+ ficcommu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.M
+ AB1 - Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-654 - English for Sc Com part 2\NSalle
+ s : NiMen.Pauling\, NiP.3E20\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt
+ \; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu
+ \, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - S
+ c. informatiques\, FA&gt\; Foreign Languages\NType : Cours\N
+DTEND:20250404T081500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250404T061500Z
+LAST-MODIFIED:20240426T165654Z
+LOCATION;LANGUAGE=fr:NiMen.Pauling\, NiP.3E20
+SUMMARY;LANGUAGE=fr:V-LANG-654 - English for Sc Com part 2 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours
+UID:Cours-141203-30-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-654 - English for Sc Com part 2<br
+ />Salles : NiMen.Pauling\, NiP.3E20<br/>Groupe : &lt\;.BAB3 - Sc. mathéma
+ tiques&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscienti
+ ficcommu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.M
+ AB1 - Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-653 - English for Sc Com part 1\NSalle 
+ : NiB4.Penrose\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt\; Autres\, &lt
+ \;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu\, &lt\;.MA60 - 
+ Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - Sc. informatiques
+ \, FA&gt\; Foreign Languages\NMémo : Evaluation\NType : Cours/Exercic\N
+DTEND:20241129T113000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20241129T093000Z
+LAST-MODIFIED:20240314T094742Z
+LOCATION;LANGUAGE=fr:NiB4.Penrose
+SUMMARY;LANGUAGE=fr:V-LANG-653 - English for Sc Com part 1 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Evaluation - Cours/Exercic
+UID:Cours-299483-12-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-653 - English for Sc Com part 1<br
+ />Salle : NiB4.Penrose<br/>Groupe : &lt\;.BAB3 - Sc. mathématiques&gt\; A
+ utres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu\, &l
+ t\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - Sc. inf
+ ormatiques\, FA&gt\; Foreign Languages<br/>Mémo : Evaluation<br/>Type : C
+ ours/Exercic<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-653 - English for Sc Com part 1\NSalle 
+ : NiB4.Penrose\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt\; Autres\, &lt
+ \;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu\, &lt\;.MA60 - 
+ Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - Sc. informatiques
+ \, FA&gt\; Foreign Languages\NMémo : Evaluation\NType : Cours/Exercic\N
+DTEND:20241206T113000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20241206T093000Z
+LAST-MODIFIED:20240314T094742Z
+LOCATION;LANGUAGE=fr:NiB4.Penrose
+SUMMARY;LANGUAGE=fr:V-LANG-653 - English for Sc Com part 1 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Evaluation - Cours/Exercic
+UID:Cours-299483-13-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-653 - English for Sc Com part 1<br
+ />Salle : NiB4.Penrose<br/>Groupe : &lt\;.BAB3 - Sc. mathématiques&gt\; A
+ utres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu\, &l
+ t\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - Sc. inf
+ ormatiques\, FA&gt\; Foreign Languages<br/>Mémo : Evaluation<br/>Type : C
+ ours/Exercic<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-653 - English for Sc Com part 1\NSalle 
+ : NiB4.Penrose\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt\; Autres\, &lt
+ \;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - Sc. info
+ rmatiques\, FA&gt\; Foreign Languages\NMémo : Evaluation\NType : Cours/Ex
+ ercic\N
+DTEND:20241220T113000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20241220T093000Z
+LAST-MODIFIED:20240314T094742Z
+LOCATION;LANGUAGE=fr:NiB4.Penrose
+SUMMARY;LANGUAGE=fr:V-LANG-653 - English for Sc Com part 1 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.MA60 - Sc. informatiques> Foreign Languages\, <.
+ MAB1 - Sc. informatiques\, FA> Foreign Languages - Evaluation - Cours/Exer
+ cic
+UID:Cours-299483-15-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-653 - English for Sc Com part 1<br
+ />Salle : NiB4.Penrose<br/>Groupe : &lt\;.BAB3 - Sc. mathématiques&gt\; A
+ utres\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1
+  - Sc. informatiques\, FA&gt\; Foreign Languages<br/>Mémo : Evaluation<br
+ />Type : Cours/Exercic<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-653 - English for Sc Com part 1\NSalle 
+ : NiDeVinci.Mirzakhani\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt\; Autr
+ es\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu\, &lt\;
+ .MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - Sc. inform
+ atiques\, FA&gt\; Foreign Languages\NType : Cours/Exercic\N
+DTEND:20241011T081500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20241011T061500Z
+LAST-MODIFIED:20240319T110108Z
+LOCATION;LANGUAGE=fr:NiDeVinci.Mirzakhani
+SUMMARY;LANGUAGE=fr:V-LANG-653 - English for Sc Com part 1 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours/Exercic
+UID:Cours-314516-5-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-653 - English for Sc Com part 1<br
+ />Salle : NiDeVinci.Mirzakhani<br/>Groupe : &lt\;.BAB3 - Sc. mathématique
+ s&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificco
+ mmu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 -
+  Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours/Exercic<br
+ />
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-653 - English for Sc Com part 1\NSalle 
+ : NiDeVinci.Mirzakhani\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt\; Autr
+ es\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu\, &lt\;
+ .MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - Sc. inform
+ atiques\, FA&gt\; Foreign Languages\NType : Cours/Exercic\N
+DTEND:20241018T081500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20241018T061500Z
+LAST-MODIFIED:20240319T110108Z
+LOCATION;LANGUAGE=fr:NiDeVinci.Mirzakhani
+SUMMARY;LANGUAGE=fr:V-LANG-653 - English for Sc Com part 1 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours/Exercic
+UID:Cours-314516-6-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-653 - English for Sc Com part 1<br
+ />Salle : NiDeVinci.Mirzakhani<br/>Groupe : &lt\;.BAB3 - Sc. mathématique
+ s&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificco
+ mmu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 -
+  Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours/Exercic<br
+ />
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-653 - English for Sc Com part 1\NSalle 
+ : NiDeVinci.Mirzakhani\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt\; Autr
+ es\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu\, &lt\;
+ .MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - Sc. inform
+ atiques\, FA&gt\; Foreign Languages\NType : Cours/Exercic\N
+DTEND:20241025T081500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20241025T061500Z
+LAST-MODIFIED:20240319T110108Z
+LOCATION;LANGUAGE=fr:NiDeVinci.Mirzakhani
+SUMMARY;LANGUAGE=fr:V-LANG-653 - English for Sc Com part 1 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours/Exercic
+UID:Cours-314516-7-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-653 - English for Sc Com part 1<br
+ />Salle : NiDeVinci.Mirzakhani<br/>Groupe : &lt\;.BAB3 - Sc. mathématique
+ s&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificco
+ mmu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 -
+  Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours/Exercic<br
+ />
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-653 - English for Sc Com part 1\NSalle 
+ : NiDeVinci.Mirzakhani\NGroupe : &lt\;.BAB3 - Sc. mathématiques&gt\; Autr
+ es\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificcommu\, &lt\;
+ .MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 - Sc. inform
+ atiques\, FA&gt\; Foreign Languages\NType : Cours/Exercic\N
+DTEND:20241108T091500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20241108T071500Z
+LAST-MODIFIED:20240319T110108Z
+LOCATION;LANGUAGE=fr:NiDeVinci.Mirzakhani
+SUMMARY;LANGUAGE=fr:V-LANG-653 - English for Sc Com part 1 - <.BAB3 - Sc. m
+ athématiques> Autres\, <.BAB3 - Sc. informatiques> Englishforscientificco
+ mmu\, <.MA60 - Sc. informatiques> Foreign Languages\, <.MAB1 - Sc. informa
+ tiques\, FA> Foreign Languages - Cours/Exercic
+UID:Cours-314516-9-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-653 - English for Sc Com part 1<br
+ />Salle : NiDeVinci.Mirzakhani<br/>Groupe : &lt\;.BAB3 - Sc. mathématique
+ s&gt\; Autres\, &lt\;.BAB3 - Sc. informatiques&gt\; Englishforscientificco
+ mmu\, &lt\;.MA60 - Sc. informatiques&gt\; Foreign Languages\, &lt\;.MAB1 -
+  Sc. informatiques\, FA&gt\; Foreign Languages<br/>Type : Cours/Exercic<br
+ />
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-654 - English for Sc Com part 2\NSalle 
+ : NiMen.Pauling\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Foreign Lang
+ uages\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Foreign Languages\NType 
+ : Cours\N
+DTEND:20250403T133000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250403T113000Z
+LAST-MODIFIED:20240524T071337Z
+LOCATION;LANGUAGE=fr:NiMen.Pauling
+SUMMARY;LANGUAGE=fr:V-LANG-654 - English for Sc Com part 2 - <.MA60 - Sc. i
+ nformatiques> Foreign Languages\, <.MAB1 - Sc. informatiques\, FA> Foreig
+ n Languages - Cours
+UID:Cours-323032-30-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-654 - English for Sc Com part 2<br
+ />Salle : NiMen.Pauling<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; F
+ oreign Languages\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Foreign Langua
+ ges<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-654 - English for Sc Com part 2\NSalle 
+ : NiB4.Penrose\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Foreign Langu
+ ages\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Foreign Languages\NType : 
+ Cours\N
+DTEND:20250327T143000Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250327T123000Z
+LAST-MODIFIED:20240524T071821Z
+LOCATION;LANGUAGE=fr:NiB4.Penrose
+SUMMARY;LANGUAGE=fr:V-LANG-654 - English for Sc Com part 2 - <.MA60 - Sc. i
+ nformatiques> Foreign Languages\, <.MAB1 - Sc. informatiques\, FA> Foreig
+ n Languages - Cours
+UID:Cours-323034-29-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-654 - English for Sc Com part 2<br
+ />Salle : NiB4.Penrose<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; Fo
+ reign Languages\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Foreign Languag
+ es<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION;LANGUAGE=fr:Aa : V-LANG-654 - English for Sc Com part 2\NSalle 
+ : NiVésale.030\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Foreign Lang
+ uages\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Foreign Languages\NMémo 
+ : Evaluation\NType : Cours\N
+DTEND:20250508T101500Z
+DTSTAMP:20240917T213702Z
+DTSTART:20250508T061500Z
+LAST-MODIFIED:20240524T072223Z
+LOCATION;LANGUAGE=fr:NiVésale.030
+SUMMARY;LANGUAGE=fr:V-LANG-654 - English for Sc Com part 2 - <.MA60 - Sc. i
+ nformatiques> Foreign Languages\, <.MAB1 - Sc. informatiques\, FA> Foreig
+ n Languages - Evaluation - Cours
+UID:Cours-323046-35-.MAB1_-_Sc._informatiques_FA-Index-Education
+X-ALT-DESC;FMTTYPE=text/html:Aa : V-LANG-654 - English for Sc Com part 2<br
+ />Salle : NiVésale.030<br/>Groupe : &lt\;.MA60 - Sc. informatiques&gt\; F
+ oreign Languages\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Foreign Langua
+ ges<br/>Mémo : Evaluation<br/>Type : Cours<br/>
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Do.TeleLab
  \NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Computer Networks and Secur
  ity\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Secur
  ity\NType : TP\N
 DTEND:20241205T163000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241205T123000Z
 LAST-MODIFIED:20240422T120533Z
 LOCATION;LANGUAGE=fr:Do.TeleLab
@@ -4079,7 +4547,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Do.TeleLab
  ity\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Secur
  ity\NType : TP\N
 DTEND:20241205T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241205T073000Z
 LAST-MODIFIED:20240422T120533Z
 LOCATION;LANGUAGE=fr:Do.TeleLab
@@ -4099,7 +4567,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20241108T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241108T123000Z
 LAST-MODIFIED:20240422T120533Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4119,7 +4587,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20241115T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241115T123000Z
 LAST-MODIFIED:20240422T120533Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4139,7 +4607,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20241122T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241122T123000Z
 LAST-MODIFIED:20240422T120533Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4159,7 +4627,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20240920T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20240920T083000Z
 LAST-MODIFIED:20240422T120533Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4179,7 +4647,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20241004T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241004T083000Z
 LAST-MODIFIED:20240422T120533Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4199,7 +4667,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20241011T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241011T083000Z
 LAST-MODIFIED:20240422T120533Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4219,7 +4687,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20241018T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241018T083000Z
 LAST-MODIFIED:20240422T120533Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4239,7 +4707,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20241025T103000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241025T083000Z
 LAST-MODIFIED:20240422T120533Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4259,7 +4727,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20240919T133000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20240919T113000Z
 LAST-MODIFIED:20240903T144124Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4279,7 +4747,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20240917T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20240917T061500Z
 LAST-MODIFIED:20240903T144124Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4299,7 +4767,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20241001T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241001T061500Z
 LAST-MODIFIED:20240903T144124Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4319,7 +4787,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20241008T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241008T061500Z
 LAST-MODIFIED:20240903T144124Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4339,7 +4807,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20241015T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241015T061500Z
 LAST-MODIFIED:20240903T144124Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4359,7 +4827,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-TELE-126 - NetworkSecMan\NSalle : Ho.22\NGro
  , &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Computer Networks and Security\
  NType : Cours\N
 DTEND:20241022T081500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241022T061500Z
 LAST-MODIFIED:20240903T144124Z
 LOCATION;LANGUAGE=fr:Ho.22
@@ -4378,7 +4846,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241106T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241106T073000Z
 LAST-MODIFIED:20240229T151840Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4397,7 +4865,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241113T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241113T073000Z
 LAST-MODIFIED:20240229T151840Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4416,7 +4884,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241120T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241120T073000Z
 LAST-MODIFIED:20240229T151840Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4435,7 +4903,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241127T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241127T073000Z
 LAST-MODIFIED:20240229T151840Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4454,7 +4922,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241204T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241204T073000Z
 LAST-MODIFIED:20240229T151840Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4473,7 +4941,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241211T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241211T073000Z
 LAST-MODIFIED:20240229T151840Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4492,7 +4960,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241218T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241218T073000Z
 LAST-MODIFIED:20240229T151840Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4511,7 +4979,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Cours\N
 DTEND:20241125T143000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241125T123000Z
 LAST-MODIFIED:20240229T152115Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4530,7 +4998,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241202T163000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241202T123000Z
 LAST-MODIFIED:20240229T152229Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4549,7 +5017,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241209T163000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241209T123000Z
 LAST-MODIFIED:20240229T152229Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4568,7 +5036,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241216T163000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241216T123000Z
 LAST-MODIFIED:20240229T152229Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4587,7 +5055,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Cours\N
 DTEND:20241104T141500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241104T121500Z
 LAST-MODIFIED:20240229T152115Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4606,7 +5074,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Cours\N
 DTEND:20241118T141500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241118T121500Z
 LAST-MODIFIED:20240229T152115Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4625,7 +5093,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Cours\N
 DTEND:20241104T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241104T144500Z
 LAST-MODIFIED:20240229T152115Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4644,7 +5112,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Cours\N
 DTEND:20241118T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241118T144500Z
 LAST-MODIFIED:20240229T152115Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4663,7 +5131,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Cours\N
 DTEND:20241125T164500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241125T144500Z
 LAST-MODIFIED:20240229T152115Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4682,7 +5150,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241209T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241209T073000Z
 LAST-MODIFIED:20240229T152340Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4701,7 +5169,7 @@ DESCRIPTION;LANGUAGE=fr:Aa : I-ILIA-007 - ProjExpertDigLog\NSalle : Ho.IGLa
  b\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; Software Development\, &lt
  \;.MAB1 - Sc. informatiques\, FA&gt\; Software Development\NType : Projet\N
 DTEND:20241216T113000Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20241216T073000Z
 LAST-MODIFIED:20240229T152340Z
 LOCATION;LANGUAGE=fr:Ho.IGLab
@@ -4716,656 +5184,6 @@ X-ALT-DESC;FMTTYPE=text/html:Aa : I-ILIA-007 - ProjExpertDigLog<br/>Salle
 CATEGORIES:HYPERPLANNING
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.06PC\NGro
- upe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. 
- informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. in
- formatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exer
- cic\N
-DTEND:20241202T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241202T123000Z
-LAST-MODIFIED:20240911T061022Z
-LOCATION;LANGUAGE=fr:Ho.06PC
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-271372-13-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 6PC<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.
- MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MA
- B1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.06PC\NGro
- upe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. 
- informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. in
- formatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exer
- cic\N
-DTEND:20241209T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241209T123000Z
-LAST-MODIFIED:20240911T061022Z
-LOCATION;LANGUAGE=fr:Ho.06PC
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-271372-14-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 6PC<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.
- MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MA
- B1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.23\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20240918T103000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20240918T083000Z
-LAST-MODIFIED:20240913T121743Z
-LOCATION;LANGUAGE=fr:Ho.23
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-271387-2-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.2
- 3<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.05\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20241022T133000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241022T113000Z
-LAST-MODIFIED:20240304T123024Z
-LOCATION;LANGUAGE=fr:Ho.05
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-271388-7-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 5<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.05\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20240917T133000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20240917T113000Z
-LAST-MODIFIED:20240304T123033Z
-LOCATION;LANGUAGE=fr:Ho.05
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-271392-2-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 5<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.05\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20240924T133000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20240924T113000Z
-LAST-MODIFIED:20240304T123033Z
-LOCATION;LANGUAGE=fr:Ho.05
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-271392-3-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 5<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.05\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20241001T133000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241001T113000Z
-LAST-MODIFIED:20240304T123033Z
-LOCATION;LANGUAGE=fr:Ho.05
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-271392-4-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 5<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.05\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20241008T133000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241008T113000Z
-LAST-MODIFIED:20240304T123033Z
-LOCATION;LANGUAGE=fr:Ho.05
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-271392-5-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 5<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.05\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20241015T133000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241015T113000Z
-LAST-MODIFIED:20240304T123033Z
-LOCATION;LANGUAGE=fr:Ho.05
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-271392-6-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 5<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.03\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20241114T143000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241114T123000Z
-LAST-MODIFIED:20240911T060753Z
-LOCATION;LANGUAGE=fr:Ho.03
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-295944-10-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 3<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.03\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20241114T164500Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241114T144500Z
-LAST-MODIFIED:20240911T060812Z
-LOCATION;LANGUAGE=fr:Ho.03
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-295945-10-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 3<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-015 - Models and methods in Data Sci\NS
- alle : Ho.01\NGroupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informati
- que\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation et gestion\, 
- &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, &l
- t\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support\N
- Type : Cours\N
-DTEND:20240920T081500Z
-DTSTAMP:20240917T211848Z
-DTSTART:20240920T061500Z
-LAST-MODIFIED:20240229T153526Z
-LOCATION;LANGUAGE=fr:Ho.01
-SUMMARY;LANGUAGE=fr:I-MARO-015 - Models and methods in Data Sci - <.MAB1 - 
- Sc. mathématiques\, FA> Informatique\, <.MAB1 - Sc. mathématiques\, FA> 
- Optimisation et gestion\, <.MA60 - Sc. informatiques> Optimization and Dec
- ision Support\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision
-  Support - Cours
-UID:Cours-311844-2-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-015 - Models and methods in Data S
- ci<br/>Salle : Ho.01<br/>Groupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt
- \; Informatique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation e
- t gestion\, &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision 
- Support\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decis
- ion Support<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-015 - Models and methods in Data Sci\NS
- alle : Ho.01\NGroupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informati
- que\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation et gestion\, 
- &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, &l
- t\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support\N
- Type : Cours\N
-DTEND:20241004T081500Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241004T061500Z
-LAST-MODIFIED:20240229T153526Z
-LOCATION;LANGUAGE=fr:Ho.01
-SUMMARY;LANGUAGE=fr:I-MARO-015 - Models and methods in Data Sci - <.MAB1 - 
- Sc. mathématiques\, FA> Informatique\, <.MAB1 - Sc. mathématiques\, FA> 
- Optimisation et gestion\, <.MA60 - Sc. informatiques> Optimization and Dec
- ision Support\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision
-  Support - Cours
-UID:Cours-311844-4-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-015 - Models and methods in Data S
- ci<br/>Salle : Ho.01<br/>Groupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt
- \; Informatique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation e
- t gestion\, &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision 
- Support\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decis
- ion Support<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-015 - Models and methods in Data Sci\NS
- alle : Ho.01\NGroupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informati
- que\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation et gestion\, 
- &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, &l
- t\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support\N
- Type : Cours\N
-DTEND:20241011T081500Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241011T061500Z
-LAST-MODIFIED:20240229T153526Z
-LOCATION;LANGUAGE=fr:Ho.01
-SUMMARY;LANGUAGE=fr:I-MARO-015 - Models and methods in Data Sci - <.MAB1 - 
- Sc. mathématiques\, FA> Informatique\, <.MAB1 - Sc. mathématiques\, FA> 
- Optimisation et gestion\, <.MA60 - Sc. informatiques> Optimization and Dec
- ision Support\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision
-  Support - Cours
-UID:Cours-311844-5-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-015 - Models and methods in Data S
- ci<br/>Salle : Ho.01<br/>Groupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt
- \; Informatique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation e
- t gestion\, &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision 
- Support\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decis
- ion Support<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-015 - Models and methods in Data Sci\NS
- alle : Ho.01\NGroupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informati
- que\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation et gestion\, 
- &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, &l
- t\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support\N
- Type : Cours\N
-DTEND:20241018T081500Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241018T061500Z
-LAST-MODIFIED:20240229T153526Z
-LOCATION;LANGUAGE=fr:Ho.01
-SUMMARY;LANGUAGE=fr:I-MARO-015 - Models and methods in Data Sci - <.MAB1 - 
- Sc. mathématiques\, FA> Informatique\, <.MAB1 - Sc. mathématiques\, FA> 
- Optimisation et gestion\, <.MA60 - Sc. informatiques> Optimization and Dec
- ision Support\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision
-  Support - Cours
-UID:Cours-311844-6-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-015 - Models and methods in Data S
- ci<br/>Salle : Ho.01<br/>Groupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt
- \; Informatique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation e
- t gestion\, &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision 
- Support\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decis
- ion Support<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-015 - Models and methods in Data Sci\NS
- alle : Ho.01\NGroupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informati
- que\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation et gestion\, 
- &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, &l
- t\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support\N
- Type : Cours\N
-DTEND:20241025T081500Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241025T061500Z
-LAST-MODIFIED:20240229T153526Z
-LOCATION;LANGUAGE=fr:Ho.01
-SUMMARY;LANGUAGE=fr:I-MARO-015 - Models and methods in Data Sci - <.MAB1 - 
- Sc. mathématiques\, FA> Informatique\, <.MAB1 - Sc. mathématiques\, FA> 
- Optimisation et gestion\, <.MA60 - Sc. informatiques> Optimization and Dec
- ision Support\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision
-  Support - Cours
-UID:Cours-311844-7-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-015 - Models and methods in Data S
- ci<br/>Salle : Ho.01<br/>Groupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt
- \; Informatique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation e
- t gestion\, &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision 
- Support\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decis
- ion Support<br/>Type : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-015 - Models and methods in Data Sci\NS
- alle : Ho.06PC\NGroupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informa
- tique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation et gestion\
- , &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, 
- &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support
- \NType : Exercices\N
-DTEND:20240920T103000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20240920T083000Z
-LAST-MODIFIED:20240229T153451Z
-LOCATION;LANGUAGE=fr:Ho.06PC
-SUMMARY;LANGUAGE=fr:I-MARO-015 - Models and methods in Data Sci - <.MAB1 - 
- Sc. mathématiques\, FA> Informatique\, <.MAB1 - Sc. mathématiques\, FA> 
- Optimisation et gestion\, <.MA60 - Sc. informatiques> Optimization and Dec
- ision Support\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision
-  Support - Exercices
-UID:Cours-311846-2-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-015 - Models and methods in Data S
- ci<br/>Salle : Ho.06PC<br/>Groupe : &lt\;.MAB1 - Sc. mathématiques\, FA&g
- t\; Informatique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation
-  et gestion\, &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decisio
- n Support\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Deci
- sion Support<br/>Type : Exercices<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-015 - Models and methods in Data Sci\NS
- alle : Ho.06PC\NGroupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informa
- tique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation et gestion\
- , &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, 
- &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support
- \NType : Exercices\N
-DTEND:20241004T103000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241004T083000Z
-LAST-MODIFIED:20240229T153451Z
-LOCATION;LANGUAGE=fr:Ho.06PC
-SUMMARY;LANGUAGE=fr:I-MARO-015 - Models and methods in Data Sci - <.MAB1 - 
- Sc. mathématiques\, FA> Informatique\, <.MAB1 - Sc. mathématiques\, FA> 
- Optimisation et gestion\, <.MA60 - Sc. informatiques> Optimization and Dec
- ision Support\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision
-  Support - Exercices
-UID:Cours-311846-4-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-015 - Models and methods in Data S
- ci<br/>Salle : Ho.06PC<br/>Groupe : &lt\;.MAB1 - Sc. mathématiques\, FA&g
- t\; Informatique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation
-  et gestion\, &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decisio
- n Support\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Deci
- sion Support<br/>Type : Exercices<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-015 - Models and methods in Data Sci\NS
- alle : Ho.06PC\NGroupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informa
- tique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation et gestion\
- , &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, 
- &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support
- \NType : Exercices\N
-DTEND:20241011T103000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241011T083000Z
-LAST-MODIFIED:20240229T153451Z
-LOCATION;LANGUAGE=fr:Ho.06PC
-SUMMARY;LANGUAGE=fr:I-MARO-015 - Models and methods in Data Sci - <.MAB1 - 
- Sc. mathématiques\, FA> Informatique\, <.MAB1 - Sc. mathématiques\, FA> 
- Optimisation et gestion\, <.MA60 - Sc. informatiques> Optimization and Dec
- ision Support\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision
-  Support - Exercices
-UID:Cours-311846-5-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-015 - Models and methods in Data S
- ci<br/>Salle : Ho.06PC<br/>Groupe : &lt\;.MAB1 - Sc. mathématiques\, FA&g
- t\; Informatique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation
-  et gestion\, &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decisio
- n Support\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Deci
- sion Support<br/>Type : Exercices<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-015 - Models and methods in Data Sci\NS
- alle : Ho.06PC\NGroupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informa
- tique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation et gestion\
- , &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, 
- &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support
- \NType : Exercices\N
-DTEND:20241018T103000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241018T083000Z
-LAST-MODIFIED:20240229T153451Z
-LOCATION;LANGUAGE=fr:Ho.06PC
-SUMMARY;LANGUAGE=fr:I-MARO-015 - Models and methods in Data Sci - <.MAB1 - 
- Sc. mathématiques\, FA> Informatique\, <.MAB1 - Sc. mathématiques\, FA> 
- Optimisation et gestion\, <.MA60 - Sc. informatiques> Optimization and Dec
- ision Support\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision
-  Support - Exercices
-UID:Cours-311846-6-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-015 - Models and methods in Data S
- ci<br/>Salle : Ho.06PC<br/>Groupe : &lt\;.MAB1 - Sc. mathématiques\, FA&g
- t\; Informatique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation
-  et gestion\, &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decisio
- n Support\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Deci
- sion Support<br/>Type : Exercices<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-015 - Models and methods in Data Sci\NS
- alle : Ho.06PC\NGroupe : &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Informa
- tique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation et gestion\
- , &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decision Support\, 
- &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support
- \NType : Exercices\N
-DTEND:20241025T103000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241025T083000Z
-LAST-MODIFIED:20240229T153451Z
-LOCATION;LANGUAGE=fr:Ho.06PC
-SUMMARY;LANGUAGE=fr:I-MARO-015 - Models and methods in Data Sci - <.MAB1 - 
- Sc. mathématiques\, FA> Informatique\, <.MAB1 - Sc. mathématiques\, FA> 
- Optimisation et gestion\, <.MA60 - Sc. informatiques> Optimization and Dec
- ision Support\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision
-  Support - Exercices
-UID:Cours-311846-7-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-015 - Models and methods in Data S
- ci<br/>Salle : Ho.06PC<br/>Groupe : &lt\;.MAB1 - Sc. mathématiques\, FA&g
- t\; Informatique\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Optimisation
-  et gestion\, &lt\;.MA60 - Sc. informatiques&gt\; Optimization and Decisio
- n Support\, &lt\;.MAB1 - Sc. informatiques\, FA&gt\; Optimization and Deci
- sion Support<br/>Type : Exercices<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.23\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20241115T113000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241115T093000Z
-LAST-MODIFIED:20240911T060718Z
-LOCATION;LANGUAGE=fr:Ho.23
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-335150-10-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.2
- 3<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.05\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20241015T154500Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241015T134500Z
-LAST-MODIFIED:20240911T060858Z
-LOCATION;LANGUAGE=fr:Ho.05
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-335151-6-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 5<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.05\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20240917T154500Z
-DTSTAMP:20240917T211848Z
-DTSTART:20240917T134500Z
-LAST-MODIFIED:20240911T080223Z
-LOCATION;LANGUAGE=fr:Ho.05
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-335204-2-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 5<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.05\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20240924T154500Z
-DTSTAMP:20240917T211848Z
-DTSTART:20240924T134500Z
-LAST-MODIFIED:20240911T080223Z
-LOCATION;LANGUAGE=fr:Ho.05
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-335204-3-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 5<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:Aa : I-MARO-036 - OptimNonLin\NSalle : Ho.05\NGroup
- e : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA60 - Sc. in
- formatiques&gt\; Optimization and Decision Support\, &lt\;.MAB1 - Sc. info
- rmatiques\, FA&gt\; Optimization and Decision Support\NType : Cours/Exerci
- c\N
-DTEND:20241001T154500Z
-DTSTAMP:20240917T211848Z
-DTSTART:20241001T134500Z
-LAST-MODIFIED:20240911T080223Z
-LOCATION;LANGUAGE=fr:Ho.05
-SUMMARY;LANGUAGE=fr:I-MARO-036 - OptimNonLin - <.BAB3 - Ir. civil> BAB3 - I
- r Civil - IG\, <.MA60 - Sc. informatiques> Optimization and Decision Suppo
- rt\, <.MAB1 - Sc. informatiques\, FA> Optimization and Decision Support - 
- Cours/Exercic
-UID:Cours-335204-4-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:Aa : I-MARO-036 - OptimNonLin<br/>Salle : Ho.0
- 5<br/>Groupe : &lt\;.BAB3 - Ir. civil&gt\; BAB3 - Ir Civil - IG\, &lt\;.MA
- 60 - Sc. informatiques&gt\; Optimization and Decision Support\, &lt\;.MAB
- 1 - Sc. informatiques\, FA&gt\; Optimization and Decision Support<br/>Typ
- e : Cours/Exercic<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION;LANGUAGE=fr:ANNULÉ : \NAa : S-INFO-810 - Deep Learning for Nat
- ural Lang\NSalle : NiP.0A07\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; 
- Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques
- \, FA&gt\; Data Science and Artificial Intelligence\NType : Cours\N
-DTEND:20250409T133000Z
-DTSTAMP:20240917T211848Z
-DTSTART:20250409T113000Z
-LAST-MODIFIED:20240917T122344Z
-LOCATION;LANGUAGE=fr:NiP.0A07
-SUMMARY;LANGUAGE=fr:ANNULÉ : S-INFO-810 - Deep Learning for Natural Lang -
-  <.MA60 - Sc. informatiques> Data Science and Artificial Intelligence\, <.
- MAB1 - Sc. informatiques\, FA> Data Science and Artificial Intelligence - 
- Cours
-UID:COURSANNULE-5675-31-.MAB1_-_Sc._informatiques_FA-Index-Education
-X-ALT-DESC;FMTTYPE=text/html:ANNULÉ : <br/>Aa : S-INFO-810 - Deep Learning
-  for Natural Lang<br/>Salle : NiP.0A07<br/>Groupe : &lt\;.MA60 - Sc. infor
- matiques&gt\; Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. 
- informatiques\, FA&gt\; Data Science and Artificial Intelligence<br/>Type
-  : Cours<br/>
-CATEGORIES:HYPERPLANNING
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION;LANGUAGE=fr:ANNULÉ : \NAa : S-INFO-027 - Knowledge repres.and 
  reasoning\NSalle : NiB4.233\NGroupe : &lt\;.MA60 - Sc. informatiques&gt\; 
  Data Science and Artificial Intelligence\, &lt\;.MAB1 - Sc. informatiques
@@ -5373,7 +5191,7 @@ DESCRIPTION;LANGUAGE=fr:ANNULÉ : \NAa : S-INFO-027 - Knowledge repres.and
  hématiques&gt\; info\, &lt\;.MAB1 - Sc. mathématiques\, FA&gt\; Intellig
  ence artificielle\NType : Cours/Exercic\N
 DTEND:20250409T154500Z
-DTSTAMP:20240917T211848Z
+DTSTAMP:20240917T213702Z
 DTSTART:20250409T134500Z
 LAST-MODIFIED:20240917T122356Z
 LOCATION;LANGUAGE=fr:NiB4.233
